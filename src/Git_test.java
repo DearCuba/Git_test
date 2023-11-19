@@ -8,6 +8,8 @@ public class Git_test {
 
     System.out.println("Add string agan");
 
+    System.out.println("Agan and agan...");
+
   }
 
 }

@@ -6,6 +6,8 @@ public class Git_test {
     System.out.println("Hello wold!");
     System.out.println("Add string");
 
+    System.out.println("Add string agan");
+
   }
 
 }

@@ -4,6 +4,7 @@ public class Git_test {
 
     System.out.println("Git test 1.0");
     System.out.println("Hello wold!");
+    System.out.println("Add string");
 
   }
 
